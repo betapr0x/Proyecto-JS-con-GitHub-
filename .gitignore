@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Carpetas y archivos de mios
+/curso-frontend-developer-javascript-practico
+.DS_Store
